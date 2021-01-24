@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "40051251683",
+    "project_id": "curriculumvitae-d258d",
+    "storage_bucket": "curriculumvitae-d258d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40051251683:android:7e2cd565b041d61e19a8d6",
+        "android_client_info": {
+          "package_name": "com.historymakers.curriculumvitae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40051251683-e9hiqtdnej6r5quup3fauvv95smbv6vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBIalqc5bqYTX7zCPu4uA5SbwnF1aBc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40051251683-e9hiqtdnej6r5quup3fauvv95smbv6vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40051251683:android:8db84509225e540519a8d6",
+        "android_client_info": {
+          "package_name": "com.historymakers.resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40051251683-e9hiqtdnej6r5quup3fauvv95smbv6vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBIalqc5bqYTX7zCPu4uA5SbwnF1aBc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40051251683-e9hiqtdnej6r5quup3fauvv95smbv6vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
