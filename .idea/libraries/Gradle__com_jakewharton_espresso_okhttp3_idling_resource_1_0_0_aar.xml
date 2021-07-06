@@ -4,6 +4,15 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3635b7b099f0c1a6a2ea481ba09198db/jetified-okhttp3-idling-resource-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3635b7b099f0c1a6a2ea481ba09198db/jetified-okhttp3-idling-resource-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3635b7b099f0c1a6a2ea481ba09198db/jetified-okhttp3-idling-resource-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77e19274d20495914f23af6f5457a634/jetified-okhttp3-idling-resource-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77e19274d20495914f23af6f5457a634/jetified-okhttp3-idling-resource-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77e19274d20495914f23af6f5457a634/jetified-okhttp3-idling-resource-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb23f5c1d08c8a08325541d280c83205/jetified-okhttp3-idling-resource-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb23f5c1d08c8a08325541d280c83205/jetified-okhttp3-idling-resource-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb23f5c1d08c8a08325541d280c83205/jetified-okhttp3-idling-resource-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6016d728420330c34f1f7b9103e7e61f/jetified-okhttp3-idling-resource-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6016d728420330c34f1f7b9103e7e61f/jetified-okhttp3-idling-resource-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6016d728420330c34f1f7b9103e7e61f/jetified-okhttp3-idling-resource-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.espresso/okhttp3-idling-resource/1.0.0/6ed6ac8b81b6311669c9fbc09dbc69d3ef6acca4/okhttp3-idling-resource-1.0.0-javadoc.jar!/" />
